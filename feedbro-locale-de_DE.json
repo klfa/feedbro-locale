@@ -5,9 +5,9 @@
         "locale_name": "Deutsch",
         "locale_type": "de_DE",
         "locale_last_updated": "2019-11-02 12:00:00 UTC",
-        "locale_author_name": "thebugfixnet",
-        "locale_author_email": "mail@thebugfix.net",
-        "locale_source_url": "https://raw.githubusercontent.com/thebugfixnet/feedbro-locale/master/feedbro-locale-de_DE.json"
+        "locale_author_name": "",
+        "locale_author_email": "",
+        "locale_source_url": ""
     },
     "addfeed_url_body": "Feed URL",
     "addfeed_load_body": "Laden",
